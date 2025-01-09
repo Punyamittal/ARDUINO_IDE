@@ -1,0 +1,24 @@
+Arduino Pin 13 ----> (Anode) LED (Cathode) ----> Resistor ----> Arduino GND
+
+
+
+To execute the Arduino code provided, you need to connect an LED to pin 13 of the Arduino. Here are the detailed pin-to-pin connections:
+
+Hardware Requirements
+Arduino Board (e.g., Arduino Uno)
+LED
+Resistor (220Ω or 330Ω)
+Breadboard (optional)
+Jumper Wires
+Connections
+LED:
+
+The long leg (anode) of the LED connects to pin 13 on the Arduino.
+The short leg (cathode) connects to one leg of the resistor.
+Resistor:
+
+The other leg of the resistor connects to the GND (ground) pin on the Arduino.
+Simplified Steps
+Connect a jumper wire from Arduino pin 13 to the anode (long leg) of the LED.
+Connect the cathode (short leg) of the LED to one leg of the resistor.
+Connect the other leg of the resistor to the GND pin on the Arduino.
